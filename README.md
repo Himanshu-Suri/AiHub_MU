@@ -101,17 +101,3 @@ Includes:
 
 ---
 
-✅ **Note:**
-Ensure your `.env` file is not committed to GitHub.
-Add this to `.gitignore`:
-
-```
-node_modules/
-.env
-dist/
-build/
-```
-
----
-
-Would you like me to make a **PDF version** of this README (formatted nicely with proper headings and page layout) for college submission?
