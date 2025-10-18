@@ -14,7 +14,7 @@ export default function Navbar() {
         </a>
 
         <div className="hidden md:flex space-x-8 font-mono">
-          <a href="#hero" className="hover:text-gray-300 transition-colors duration-200 relative group">
+          <a href="#home" className="hover:text-gray-300 transition-colors duration-200 relative group">
             <span className="relative z-10">[HOME]</span>
             <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-white group-hover:w-full transition-all duration-300"></span>
           </a>

@@ -5,7 +5,7 @@ import Background from "./Background";
 function Hero(){
 
 return (
-    <div className="h-screen flex flex-col justify-center items-center bg-black text-white relative">
+    <div className="h-screen flex flex-col justify-center items-center bg-black text-white relative" id="home">
       
         <Background />
         
